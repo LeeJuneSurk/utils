@@ -42,3 +42,5 @@
 [2021-01-26 16:09:39.731] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
 [2021-01-26 16:09:39.736] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
 [2021-01-26 16:09:39.740] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+
+Ddd
