@@ -1,0 +1,44 @@
+[2021-01-26 16:08:45.775] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:08:45.785] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:08:45.790] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:08:45.792] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:08:51.718] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:08:51.720] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:08:51.722] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:08:51.724] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:08:51.794] onDisconnect() 실행....  mBleState:1
+[2021-01-26 16:08:57.721] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:08:57.723] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:08:57.730] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:08:57.733] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:01.036] [InBodyBandConnectingManager] connect() 
+[2021-01-26 16:09:01.038] onConnect()장비연결 실패 >> mBleIsAlreadyPaired:false
+[2021-01-26 16:09:03.720] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:03.725] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:03.727] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:03.728] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:03.777] onDisconnect() 실행....  mBleState:1
+[2021-01-26 16:09:09.720] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:09.722] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:09.724] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:09.725] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:15.723] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:15.728] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:15.732] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:15.735] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:21.724] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:21.727] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:21.731] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:21.732] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:27.725] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:27.728] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:27.729] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:27.733] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:33.727] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:33.739] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:33.745] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:33.752] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
+[2021-01-26 16:09:39.727] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : CD:75:56:B1:6F:A4 S/N : 1831
+[2021-01-26 16:09:39.731] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : C1:53:47:78:54:5D S/N : 3595
+[2021-01-26 16:09:39.736] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : F5:7C:C1:27:0E:38 S/N : 1345
+[2021-01-26 16:09:39.740] [ThreedPre] 리스트 검색 >> device Name : InBodyBand2 MacAddr : E7:15:FD:60:33:5C S/N : 1857
